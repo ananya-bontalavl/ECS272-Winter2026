@@ -1,0 +1,20 @@
+{
+  "name": "vanillajs",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "axios": "^1.13.2",
+    "d3": "^7.9.0",
+    "lodash": "^4.17.21",
+    "vite": "^7.3.0"
+  },
+  "dependencies": {
+    "d3-hexbin": "^0.2.2"
+  }
+}
